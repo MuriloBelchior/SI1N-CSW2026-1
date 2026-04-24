@@ -1,0 +1,31 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body{
+    background-image: linear-gradient(90deg,#073C63,#10608A,#0A6A73);
+} 
+main{
+    background-color: white;
+    box-shadow: 30px 30px 30px black;
+    width: 600px;
+    padding: 50px;
+    margin: auto;
+    border-radius: 15px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+h1{
+    color: #0869a6;
+    text-align: center;
+    text-shadow: 12px 10px 5px #05528383;
+
+}
+h2{
+    color: #0388a6;
+}
+
+p{
+    text-align: justify;
+}
